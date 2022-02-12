@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Hasan Kutluhan Şıpka
+-🏫 I’m currently studying CS at Bilkent University
 <!--
 **kutluhann/kutluhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
