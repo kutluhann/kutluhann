@@ -5,4 +5,4 @@
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kutluhann&include_all_commits=true&count_private=true&show_icons=true&theme=dark&border_radius=12&card_width=400" alt="kutluhann" /></p>
 
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutluhann&layout=compact&theme=dark&langs_count=8&border_radius=12&card_width=380" alt="kutluhann" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutluhann&layout=compact&theme=dark&langs_count=8&border_radius=12&card_width=380" alt="kutluhann" /></p>
