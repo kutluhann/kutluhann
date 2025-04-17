@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Hasan Kutluhan Şıpka
-* 📚 I'm 3rd year Computer Science student at Bilkent University
+* 📚 I'm 4rd year Computer Science student at Bilkent University
 
 
 <a href="https://github.com/kutluhann/">
