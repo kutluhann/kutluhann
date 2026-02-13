@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Hasan Kutluhan Şıpka
+### Hi there 👋, I'm Kutluhan
 * 📚 I'm 4th year Computer Science student at Bilkent University
 
 
